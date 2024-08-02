@@ -1,4 +1,3 @@
-```markdown
 # Projeto OpenMP - Cálculo em Matrizes
 
 Este projeto demonstra o uso do OpenMP para paralelizar operações em uma matriz de números aleatórios. Ele calcula a soma, a média, a variância, o desvio padrão e a esparsidade da matriz.
